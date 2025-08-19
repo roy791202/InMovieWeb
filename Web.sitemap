@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="movbooking.aspx" title="1. 選擇票種"  description="">
+    <siteMapNode url="new_movseat.aspx" title="2. 選擇座位"  description="" />
+    <siteMapNode url="movresult.aspx" title="3. 訂票成功"  description="" />
+  </siteMapNode>
+</siteMap>

@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "InMovie", "..\InMovie\", "{C2D7A92E-A816-4CC9-A735-01E66E9CF0E5}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/InMovie"
+		Debug.AspNetCompiler.PhysicalPath = "D:\InMovie\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\InMovie\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/InMovie"
+		Release.AspNetCompiler.PhysicalPath = "D:\InMovie\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\InMovie\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51515"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2D7A92E-A816-4CC9-A735-01E66E9CF0E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2D7A92E-A816-4CC9-A735-01E66E9CF0E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
